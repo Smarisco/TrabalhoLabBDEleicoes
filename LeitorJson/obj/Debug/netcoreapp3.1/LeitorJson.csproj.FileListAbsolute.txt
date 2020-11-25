@@ -1,0 +1,29 @@
+C:\Projetos\Teste Console\LeitorJson\LeitorJson\bin\Debug\netcoreapp3.1\LeitorJson.exe
+C:\Projetos\Teste Console\LeitorJson\LeitorJson\obj\Debug\netcoreapp3.1\LeitorJson.csprojAssemblyReference.cache
+C:\Projetos\Teste Console\LeitorJson\LeitorJson\obj\Debug\netcoreapp3.1\LeitorJson.AssemblyInfoInputs.cache
+C:\Projetos\Teste Console\LeitorJson\LeitorJson\obj\Debug\netcoreapp3.1\LeitorJson.AssemblyInfo.cs
+C:\Projetos\Teste Console\LeitorJson\LeitorJson\bin\Debug\netcoreapp3.1\LeitorJson.deps.json
+C:\Projetos\Teste Console\LeitorJson\LeitorJson\bin\Debug\netcoreapp3.1\LeitorJson.runtimeconfig.json
+C:\Projetos\Teste Console\LeitorJson\LeitorJson\bin\Debug\netcoreapp3.1\LeitorJson.runtimeconfig.dev.json
+C:\Projetos\Teste Console\LeitorJson\LeitorJson\bin\Debug\netcoreapp3.1\LeitorJson.dll
+C:\Projetos\Teste Console\LeitorJson\LeitorJson\bin\Debug\netcoreapp3.1\LeitorJson.pdb
+C:\Projetos\Teste Console\LeitorJson\LeitorJson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projetos\Teste Console\LeitorJson\LeitorJson\obj\Debug\netcoreapp3.1\LeitorJson.csproj.CopyComplete
+C:\Projetos\Teste Console\LeitorJson\LeitorJson\obj\Debug\netcoreapp3.1\LeitorJson.dll
+C:\Projetos\Teste Console\LeitorJson\LeitorJson\obj\Debug\netcoreapp3.1\LeitorJson.pdb
+C:\STELA\FACOM\LBD\Teste Console\Teste Console\LeitorJson\LeitorJson\bin\Debug\netcoreapp3.1\LeitorJson.exe
+C:\STELA\FACOM\LBD\Teste Console\Teste Console\LeitorJson\LeitorJson\bin\Debug\netcoreapp3.1\LeitorJson.deps.json
+C:\STELA\FACOM\LBD\Teste Console\Teste Console\LeitorJson\LeitorJson\bin\Debug\netcoreapp3.1\LeitorJson.runtimeconfig.json
+C:\STELA\FACOM\LBD\Teste Console\Teste Console\LeitorJson\LeitorJson\bin\Debug\netcoreapp3.1\LeitorJson.runtimeconfig.dev.json
+C:\STELA\FACOM\LBD\Teste Console\Teste Console\LeitorJson\LeitorJson\bin\Debug\netcoreapp3.1\LeitorJson.dll
+C:\STELA\FACOM\LBD\Teste Console\Teste Console\LeitorJson\LeitorJson\bin\Debug\netcoreapp3.1\LeitorJson.pdb
+C:\STELA\FACOM\LBD\Teste Console\Teste Console\LeitorJson\LeitorJson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\STELA\FACOM\LBD\Teste Console\Teste Console\LeitorJson\LeitorJson\obj\Debug\netcoreapp3.1\LeitorJson.csprojAssemblyReference.cache
+C:\STELA\FACOM\LBD\Teste Console\Teste Console\LeitorJson\LeitorJson\obj\Debug\netcoreapp3.1\LeitorJson.AssemblyInfoInputs.cache
+C:\STELA\FACOM\LBD\Teste Console\Teste Console\LeitorJson\LeitorJson\obj\Debug\netcoreapp3.1\LeitorJson.AssemblyInfo.cs
+C:\STELA\FACOM\LBD\Teste Console\Teste Console\LeitorJson\LeitorJson\obj\Debug\netcoreapp3.1\LeitorJson.csproj.CopyComplete
+C:\STELA\FACOM\LBD\Teste Console\Teste Console\LeitorJson\LeitorJson\obj\Debug\netcoreapp3.1\LeitorJson.dll
+C:\STELA\FACOM\LBD\Teste Console\Teste Console\LeitorJson\LeitorJson\obj\Debug\netcoreapp3.1\LeitorJson.pdb
+C:\STELA\FACOM\LBD\Teste Console\Teste Console\LeitorJson\LeitorJson\obj\Debug\netcoreapp3.1\LeitorJson.genruntimeconfig.cache
+C:\STELA\FACOM\LBD\Teste Console\Teste Console\LeitorJson\LeitorJson\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\STELA\FACOM\LBD\Teste Console\Teste Console\LeitorJson\LeitorJson\obj\Debug\netcoreapp3.1\LeitorJson.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fjXBLTkLmWQMHGzz0CDhr4R7ltluGagiqGkA8Ccp1EZiFgxA0bOGSiJfR5zUqHD3HP6cdNx5VUeGUsaRfjliVA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\LeitorJson\\LeitorJson\\LeitorJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smduarte\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\smduarte\\.nuget\\packages\\npgsql\\5.0.0\\npgsql.5.0.0.nupkg.sha512",
+    "C:\\Users\\smduarte\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
